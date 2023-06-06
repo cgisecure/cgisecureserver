@@ -1,0 +1,5 @@
+all:
+	run
+
+run:
+	./simple-cgiserver/run.sh
